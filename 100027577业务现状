@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T08:11:40.770Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="20.2.4" etag="dqc_6dphEJ3FBg3T1kBR" type="github"><diagram id="io-KmAlXQnOWmw6U8IHt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:35:23.537Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Jo8z03JRe1r0Cj_EH5Jc" version="20.2.4" type="github">
+  <diagram id="io-KmAlXQnOWmw6U8IHt" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-1" value="Listeners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-2" value="EsSynchronizeListerner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-3" value="OrderChange4CRiskListener" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="244" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-4" value="OrderChange4OiListerner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-5" value="OrderChangeFromSync4OiListerner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-6" value="OrderChangeListerner&lt;br&gt;(Job&amp;lt;&amp;gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="870" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-7" value="OrderEventChangeListener&lt;br&gt;（同步Q）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddSwpACWUaio2Q2ymu5m-8" value="OrderOtterListerner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
